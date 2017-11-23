@@ -1,0 +1,6 @@
+c:\users\novesanchez\documents\visual studio 2017\Projects\Generics\Generics\bin\Debug\Generics.exe.config
+c:\users\novesanchez\documents\visual studio 2017\Projects\Generics\Generics\bin\Debug\Generics.exe
+c:\users\novesanchez\documents\visual studio 2017\Projects\Generics\Generics\bin\Debug\Generics.pdb
+c:\users\novesanchez\documents\visual studio 2017\Projects\Generics\Generics\obj\Debug\Generics.csproj.CoreCompileInputs.cache
+c:\users\novesanchez\documents\visual studio 2017\Projects\Generics\Generics\obj\Debug\Generics.exe
+c:\users\novesanchez\documents\visual studio 2017\Projects\Generics\Generics\obj\Debug\Generics.pdb
